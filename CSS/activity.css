@@ -1,0 +1,20 @@
+.font-family-size {
+    font-size: bold;
+    text-align: center;
+}
+.italic {
+    text-decoration: underline;
+    font-style: italic;
+}
+.text-shadow {
+    text-shadow: 20px 20px 4px rgba(255,0,0,.5);
+}
+.line-height{
+    line-height: 2;
+}
+.letter-spacing {
+    letter-spacing: 4px;
+}
+.line-through {
+    text-decoration: line-through;
+}
